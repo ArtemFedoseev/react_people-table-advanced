@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/PeopleTable/styles.css"],"names":[],"mappings":"AAAA,aACE,wBACF","file":"main.e491f94d.chunk.css","sourcesContent":[".selected-th {\n  background-color: #fffee0;\n}\n"]}
